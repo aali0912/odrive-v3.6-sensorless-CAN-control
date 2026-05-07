@@ -1,5 +1,5 @@
 # ODrive v3.6 Sensorless BLDC Motor Control over CAN Bus
-
+This repository provides the step by step guide to run a BLDC motor with the python code using waveshare can-usb-a and odrive v3.6 
 Step-by-step guide: from hardware setup to motor spinning over CAN bus
 
 **Hardware:** ODrive v3.6-56V | **Motor:** 350KV BLDC | **CAN adapter:** Waveshare USB-CAN-A | **OS:** Ubuntu 22.04
